@@ -1,0 +1,21 @@
+# requirements.txt
+
+# NumPy: Fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices.
+
+numpy==1.21.2
+
+# Pygame: Library for creating 2D games. It simplifies the game development process by handling graphics, sound, and input.
+
+pygame==2.1.1
+
+# Neat-Python: A Python implementation of the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, used for evolving neural networks.
+
+neat-python==0.92
+
+# Graphviz: A tool for visualizing graph structures. Useful for plotting and understanding relationships in networks or trees.
+
+graphviz==0.17
+
+# Matplotlib: 2D plotting library for Python. It produces high-quality graphs, charts, and figures for data visualization.
+
+matplotlib==3.4.3
